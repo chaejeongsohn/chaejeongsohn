@@ -1,17 +1,13 @@
-<div align="center">
-  <h3> Hi there 👋 </h3>
-
-</div>
-<div>
-  <h3>:woman_technologist: About Me :</h3>
-  I want to help many people's lives and expand their possibilities with my programming skills. <br>
-  I programming while thinking about how to provide the service to the user. 
+## Hi there 👋 
+-  I want to help many people's lives and expand their possibilities with my programming skills.
+-  I programming while thinking about how to provide the service to the user. 
+## :woman_technologist: About Me :
+- 🌱 I’m currently learning Spring Framework
   
-  <h3>:fire: My Stats :</h3>
-</div>
-<div>
+## :fire: My Stats :
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaejeongsohn&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/chaejeongsohn)
-</div>
+
 
 
 

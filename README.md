@@ -1,14 +1,15 @@
 ## Hi there 👋 
 -  I am working as a developer in Seoul, South Korea.
-## :woman_technologist: About Me :
+<!--## :woman_technologist: About Me :-->
 - 🌱 I’m currently learning Spring Boot, JPA ...
+- 📫 How to reach me: https://www.linkedin.com/in/chaejung-sohn
   
-<!--## :fire: My Stats :-->
+## :fire: My Stats :
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaejeongsohn&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/chaejeongsohn)
 
 
-📫 How to reach me: https://www.linkedin.com/in/chaejung-sohn
+
 
 
 <!--

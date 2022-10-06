@@ -1,15 +1,14 @@
 ## Hi there 👋 
--  I want to help many people's lives and expand their possibilities with my programming skills.
--  I programming while thinking about how to provide the service to the user. 
+-  I am working as a developer in Seoul, South Korea.
 ## :woman_technologist: About Me :
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently learning Spring Boot, JPA ...
   
-## :fire: My Stats :
+<!--## :fire: My Stats :-->
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaejeongsohn&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/chaejeongsohn)
 
 
-
+📫 How to reach me: https://www.linkedin.com/in/chaejung-sohn
 
 
 <!--

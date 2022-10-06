@@ -3,15 +3,17 @@
 - 🌱 I’m currently learning Spring Boot, JPA ...
 - 📫 How to reach me: https://www.linkedin.com/in/chaejung-sohn
   
-## :fire: My Stats :
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaejeongsohn&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/chaejeongsohn)
-
 
 
 
 
 <!--
+
+## :fire: My Stats :
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaejeongsohn&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/chaejeongsohn)
+
+
 **chaejeongsohn/chaejeongsohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## :woman_technologist: About Me :
 Here are some ideas to get you started:

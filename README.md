@@ -1,6 +1,5 @@
-## Hi there 👋 
--  I am working as a developer in Seoul, South Korea.
-<!--## :woman_technologist: About Me :-->
+## Hi, I'm ChaeJeong 👋🏻🧑🏻‍💻
+-  I am working as a developer in Seoul, South Korea. And... Hello, World! 🎃
 - 🌱 I’m currently learning Spring Boot, JPA ...
 - 📫 How to reach me: https://www.linkedin.com/in/chaejung-sohn
   
@@ -14,7 +13,7 @@
 
 <!--
 **chaejeongsohn/chaejeongsohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## :woman_technologist: About Me :
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

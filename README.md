@@ -1,7 +1,7 @@
 ## Hi, I'm ChaeJeong 👋🏻🧑🏻‍💻
--  I am working as a developer in Seoul, South Korea. And... Hello, World! 🎃
-- 🌱 I’m currently learning Spring Boot, JPA ...
-- 📫 How to reach me: https://www.linkedin.com/in/chaejung-sohn
+-  I am working as a developer in Seoul, South Korea.
+- 🌱 I’m currently learning Java, Spring Boot, Python, Docker ...
+- 📫 How to reach me: https://www.linkedin.com/in/chaejeong-sohn/
   
 
 
